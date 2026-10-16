@@ -179,9 +179,9 @@ Refer to the repository's `LICENSE` file for licensing terms. Do not claim a spe
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**ILYASS TALHA**
 
-GitHub: [Your GitHub Profile](https://github.com/)
+GitHub: https://github.com/ILYASS-TALHA
 
 ---
 
